@@ -4,7 +4,7 @@ from tkinter import *
 from tkinter.ttk import *
 from openpyxl import *
 from time import strftime
-
+1
 wb = load_workbook('Stunden.xlsx')
 ws = wb.worksheets[0]
 i = 0
